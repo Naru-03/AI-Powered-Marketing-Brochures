@@ -1,1 +1,1 @@
-# Brochures.ipynb
+AI-Powered-Marketing-Brochures
