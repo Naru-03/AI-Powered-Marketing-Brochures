@@ -1,4 +1,4 @@
-AI-Powered-Marketing-Brochures
+AI-Powered Brochure Generator
 
 📌 Overview
 This project combines web scraping with Google Gemini AI to automatically extract relevant information from company websites and generate structured content (like brochures). It identifies important links (About, Careers, Docs, Blog, etc.), scrapes their contents, and organizes them into a readable format.
